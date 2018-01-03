@@ -1,7 +1,7 @@
 # SmallVideo
 android仿微信小视频功能
 
-[!](./images/video.gif)
+![](./blob/master/images/video.gif)
 
 ### Thanks to:
 
